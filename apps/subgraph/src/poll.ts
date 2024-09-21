@@ -18,7 +18,7 @@ export function handleMergeMaciState(event: MergeMaciStateEvent): void {
     poll.numSignups = event.params._numSignups;
     poll.updatedAt = event.block.timestamp;
     poll.save();
-
+    
     const maci = MACI.load(poll.maci);
 
     if (maci) {
