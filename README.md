@@ -1,5 +1,5 @@
 # zkElect
-###Redefining Elections & Surveys with Blockchain and Zero-Knowledge Proofs⚡️
+### Redefining Elections & Surveys with Blockchain and Zero-Knowledge Proofs⚡️
 
 Imagine a world where every vote and survey is fully anonymous, immune to corruption, and tamper-proof. Many countries still struggle with election integrity, spending millions to ensure fairness, yet votes can still be influenced by bribery 💸 or manipulated by powerful individuals. Citizens are left with compromised elections, especially in parliamentary votes where democracy is undermined.
 
