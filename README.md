@@ -6,7 +6,7 @@ In workplaces, employees hesitate to provide honest feedback when they fear mana
 
 Enter **zkElect** 🚀—the game-changing platform that transforms how elections and surveys are conducted. Built on blockchain, zk-SNARKs, and MACI, zkElect guarantees complete privacy 🔒 and transparency. Every vote is cast on-chain, securely encrypted, and remains anonymous, eliminating any potential for coercion or vote-buying.
 
-## Why zkElect?
+## Why zkElect❓
 
 **Integrity First:** Every vote is transparent, secure, and immutable on the blockchain.  
 **Efficiency Boost:** Say goodbye to costly, resource-heavy elections! zkElect saves time, money, and effort by moving the process on-chain.  
@@ -14,7 +14,7 @@ Enter **zkElect** 🚀—the game-changing platform that transforms how election
 **Shield Against Pressure:** zkElect protects citizens from powerful actors, preserving democratic integrity 🌍.  
 **Global Reach:** Whether it's a country, company, or community, zkElect enhances voting and feedback processes worldwide 🌐.
 
-## Requirements
+## Requirements✅
 
 Ensure you have the following tools installed before you proceed:
 
@@ -22,7 +22,7 @@ Ensure you have the following tools installed before you proceed:
 - Yarn ([v1](https://classic.yarnpkg.com/en/docs/install/) or [v2+](https://yarnpkg.com/getting-started/install))
 - [Git](https://git-scm.com/downloads)
 
-## Quickstart
+## 🏁Quickstart
 
 Jumpstart your development with these simple steps:
 
@@ -97,7 +97,7 @@ The deployed contracts will be saved to the file `packages/hardhat/contractAddre
 
 The coordinator keys will be stored in the file `packages/hardhat/coordinatorKeyPair.json`.
 
-## Usage
+## 🚀Usage
 
 After setting up the project, you can:
 
@@ -107,7 +107,7 @@ After setting up the project, you can:
 - **View Results**: Access poll outcomes after the voting phase ends.
 - **Admin Dashboard**: Monitor and manage ongoing polls, including viewing detailed poll status.
 
-## Deployed on-chain addresses of zkElect
+## 🔗Deployed on-chain addresses of zkElect
         Verifier: 0xB1abb44291ff487f96636758b07Ccd9881f64c9A
         PoseidonT3: 0x07490eba00dc4ACA6721D052Fa4C5002Aa077233
         PoseidonT4: 0xbb0e724CE02e5E7eDd31e632dc6e59F229a1126d
