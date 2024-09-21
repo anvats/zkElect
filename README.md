@@ -6,7 +6,7 @@ In workplaces, employees hesitate to provide honest feedback when they fear mana
 
 Enter **zkElect** 🚀—the game-changing platform that transforms how elections and surveys are conducted. Built on blockchain, zk-SNARKs, and MACI, zkElect guarantees complete privacy 🔒 and transparency. Every vote is cast on-chain, securely encrypted, and remains anonymous, eliminating any potential for coercion or vote-buying.
 
-## Why zkElect❓
+## # Why zkElect❓
 
 **Integrity First:** Every vote is transparent, secure, and immutable on the blockchain.  
 **Efficiency Boost:** Say goodbye to costly, resource-heavy elections! zkElect saves time, money, and effort by moving the process on-chain.  
@@ -14,7 +14,7 @@ Enter **zkElect** 🚀—the game-changing platform that transforms how election
 **Shield Against Pressure:** zkElect protects citizens from powerful actors, preserving democratic integrity 🌍.  
 **Global Reach:** Whether it's a country, company, or community, zkElect enhances voting and feedback processes worldwide 🌐.
 
-## Requirements✅
+## ✅Requirements
 
 Ensure you have the following tools installed before you proceed:
 
