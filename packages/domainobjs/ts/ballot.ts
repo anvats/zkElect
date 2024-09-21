@@ -30,7 +30,7 @@ export class Ballot {
   }
 
   /**
-   * Generate an hash of this ballot
+   * Generate a hash of this ballot
    * @returns The hash of the ballot
    */
   hash = (): bigint => {
@@ -45,7 +45,7 @@ export class Ballot {
   asCircuitInputs = (): bigint[] => this.asArray();
 
   /**
-   * Convert in a an array of bigints
+   * Convert in an array of bigints
    * @notice this is the nonce and the root of the vote option tree
    * @returns the ballot as a bigint array
    */
