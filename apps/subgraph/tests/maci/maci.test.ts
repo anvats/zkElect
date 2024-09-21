@@ -22,11 +22,11 @@ describe("MACI", () => {
 
   test("should handle signup properly", () => {
     const event = createSignUpEvent(
-      BigInt.fromI32(0),
-      BigInt.fromI32(0),
-      BigInt.fromI32(0),
-      BigInt.fromI32(0),
-      BigInt.fromI32(0),
+      BigInt.fromI32(1),
+      BigInt.fromI32(1),
+      BigInt.fromI32(1),
+      BigInt.fromI32(1),
+      BigInt.fromI32(1),
     );
 
     handleSignUp(event);
