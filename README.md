@@ -4,7 +4,7 @@ Imagine a world where every vote and survey is fully anonymous, immune to corrup
 
 In workplaces, employees hesitate to provide honest feedback when they fear management might trace their responses. Similarly, companies face challenges gathering true customer insights when anonymity isn’t guaranteed, resulting in incomplete feedback.
 
-Enter **zkElect** 🚀—the game-changing platform that transforms how elections and surveys are conducted. Built on blockchain, zk-SNARKs, and MACI, zkElect guarantees complete privacy 🔒 and transparency. Every vote is cast on-chain, securely encrypted, and remains anonymous, eliminating any potential for coercion or vote-buying.
+Enter **zkElect** 🚀—the game-changing platform that transforms how elections and surveys are conducted and built on blockchain, zk-SNARKs, and MACI, zkElect guarantees complete privacy 🔒 and transparency. Every vote is cast on-chain, securely encrypted, and remains anonymous, eliminating any potential for coercion or vote-buying.
 
 ## # Why zkElect❓
 
