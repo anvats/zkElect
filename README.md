@@ -107,7 +107,7 @@ After setting up the project, you can:
 - **View Results**: Access poll outcomes after the voting phase ends.
 - **Admin Dashboard**: Monitor and manage ongoing polls, including viewing detailed poll status.
 
-## Deployed on-chain addresses of zkElect for OP Sepolia
+## Deployed on-chain addresses of zkElect
         Verifier: 0xB1abb44291ff487f96636758b07Ccd9881f64c9A
         PoseidonT3: 0x07490eba00dc4ACA6721D052Fa4C5002Aa077233
         PoseidonT4: 0xbb0e724CE02e5E7eDd31e632dc6e59F229a1126d
